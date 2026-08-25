@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for helping other readers! Your report goes into the public
-        compatibility list at https://jeon-gyungmin.github.io/Bookmote-releases/
+        compatibility list at https://teipub.github.io/Bookmote-releases/
   - type: input
     id: device
     attributes:
